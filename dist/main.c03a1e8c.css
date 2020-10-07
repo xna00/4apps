@@ -1,0 +1,2 @@
+button{color:green}.tab{display:flex;flex-grow:1}#tab1,#tab2{flex:1}.active{background:red}.content{display:none}.selected{width:100px;height:100px;border:1px solid #00f;display:block}#app3content{width:100px;height:100px;border:1px solid green;transition:all 1s linear}#app3content.clicked{transform:translateX(300px)}#app4content{width:100px;height:100px;background:#000;border-radius:50%;transition:all 1s linear}#app4content:hover{background:red}
+/*# sourceMappingURL=main.c03a1e8c.css.map */
